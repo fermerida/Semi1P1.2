@@ -1,8 +1,15 @@
 # Semi1P1
 proyecto 1 - seminario1 - 201314713
 
-Depositorio base de datos      ---->  docker pull 201314713/s1p1-db
+Repositorio base de datos      ---->  docker pull 201314713/s1p1-db
+
+
+
+
 Repositorio Api y servidor web ---->  docker pull 201314713/s1p1-api
+
+
+
 
 Se tienen dos carpetas distribuidas de la siguiente manera:
   -docker-compose.yml: crea y alista el entorno de trabajo total creando todas las imagenes necesarias para correr la pagina      web (En el puerto 3258)
