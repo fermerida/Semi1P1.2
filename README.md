@@ -12,6 +12,7 @@ Repositorio Api y servidor web ---->  docker pull 201314713/s1p1-api
 
 
 Se tienen dos carpetas distribuidas de la siguiente manera:
+  
   -docker-compose.yml: 
     crea y alista el entorno de trabajo total creando todas las imagenes necesarias para correr la pagina      web (En el puerto 3258)
     utilizar con comando docker-compose up
